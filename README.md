@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GitHub license](https://img.shields.io/github/license/AdonisNetwork/ADON-Visualizer/)](https://github.com/AdonisNetwork/ADON-Visualizer/blob/gh-pages/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/AdonisNetwork/ADON-Visualizer)](https://github.com/AdonisNetwork/ADON-Visualizer/blob/gh-pages/LICENSE)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/AdonisNetwork/ADON-Visualizer/)
 [![GitHub commits](https://badgen.net/github/commits/AdonisNetwork/ADON-Visualizer/gh-pages/)](https://GitHub.com/AdonisNetwork/ADON-Visualizer/commit/gh-pages/)
 [![GitHub latest commit](https://badgen.net/github/last-commit/AdonisNetwork/ADON-Visualizer/gh-pages/)](https://GitHub.com/AdonisNetwork/ADON-Visualizer/commit/gh-pages/)
