@@ -2,14 +2,14 @@
 
 <div align="center">
 
-[![GitHub license](https://img.shields.io/github/license/AdonisNetwork/ADON-Visualizer)](https://github.com/AdonisNetwork/ADON-Visualizer/blob/gh-pages/LICENSE)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/AdonisNetwork/ADON-Visualizer/)
-[![GitHub commits](https://badgen.net/github/commits/AdonisNetwork/ADON-Visualizer/gh-pages/)](https://GitHub.com/AdonisNetwork/ADON-Visualizer/commit/gh-pages/)
-[![GitHub latest commit](https://badgen.net/github/last-commit/AdonisNetwork/ADON-Visualizer/gh-pages/)](https://GitHub.com/AdonisNetwork/ADON-Visualizer/commit/gh-pages/)
+[![GitHub license](https://img.shields.io/github/license/adonisexchange/ADON-Visualizer)](https://github.com/adonisexchange/ADON-Visualizer/blob/gh-pages/LICENSE)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/adonisexchange/ADON-Visualizer/)
+[![GitHub commits](https://badgen.net/github/commits/adonisexchange/ADON-Visualizer/gh-pages/)](https://GitHub.com/adonisexchange/ADON-Visualizer/commit/gh-pages/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/adonisexchange/ADON-Visualizer/gh-pages/)](https://GitHub.com/adonisexchange/ADON-Visualizer/commit/gh-pages/)
 
 </div>
 
-Current version hosted at [**visualizer.adonis.network**](https://visualizer.adonis.network). Forked from a project formerly known as "Listen to Bitcoin" (ListenToBitcoin.com has been sold.)
+Current version hosted at [**visualizer.adonis.exchange**](https://visualizer.adonis.exchange). Forked from a project formerly known as "Listen to Bitcoin" (ListenToBitcoin.com has been sold.)
 
 Realtime ADON transaction visualizer written in HTML/Javascript. See and hear new transactions and blocks as they propagate through the ADON Network.
 

@@ -4,7 +4,7 @@ let DEBUG_MODE = false;
 
 const COIN = 1e8;
 
-const provider_name = "mainnet.adonis.network";
+const provider_name = "mainnet.adonis.exchange";
 
 let DONATION_ADDRESS;
 
